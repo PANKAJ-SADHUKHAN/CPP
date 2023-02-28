@@ -1,7 +1,7 @@
 ### This is all about OOPs
-##OOPs stands for Object Oriented Programming.
-#C++ and JAVA is partially you can ssay Object oriented programming
-#The properties of pure OOPs are:
+<h3>OOPs stands for Object Oriented Programming.</h3>
+<h3>C++ and JAVA is partially you can ssay Object oriented programming</h3>
+<h2>The properties of pure OOPs are:</h2>
 #1Encapsulation/Data Hiding
 #2Inheritance
 #3Polymorphism
